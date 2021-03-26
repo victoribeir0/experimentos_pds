@@ -1,2 +1,2 @@
 # Experimentos PDS
-Experimentos para a disciplina de Processamento Digital de Sinais
+Experimentos para a disciplina de Processamento Digital de Sinais.
