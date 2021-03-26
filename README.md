@@ -1,2 +1,2 @@
-# experimentos_pds
+# Experimentos PDS
 Experimentos para a disciplina de Processamento Digital de Sinais
