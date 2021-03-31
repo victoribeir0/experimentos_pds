@@ -1,7 +1,7 @@
 # Experimentos PDS
 Experimentos para a disciplina de Processamento Digital de Sinais.
 
-## Experimento 01 - Implementação de algoritimos para efeito de eco e reverb em áudio.
+### Experimento 01 - Implementação de algoritimos para efeito de eco e reverb em áudio.
 - Filtros Comb
 - Visualização do espectro de frequências
 
