@@ -35,9 +35,11 @@ end
 ind_skip = 20; // Variável onde começa a valer para encontrar o máx.
 [m,k_0] = max(R(:,ind_skip:$),'c');
 
-// Devido o calculo do máximo (passo anterior) ser feito a partir do índice
-// 20, os valores de max_pos devem ser somados a ind_skip-1, para voltar para
-// os valores de origem.
+/*
+    Devido o calculo do máximo (passo anterior) ser feito a partir do índice
+    20, os valores de max_pos devem ser somados a ind_skip-1, para voltar para
+    os valores de origem.
+*/
 k_0 = k_0 + (ind_skip-1);
 k_0 = fs./k_0; // Para obter a freq. em Hz divide Fs/max_pos.
 k_0 = k_0(k_0 <= 500); //Matem somente os menos que 500 Hz.
