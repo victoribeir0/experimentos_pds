@@ -1,5 +1,6 @@
 # Experimentos PDS
 Experimentos para a disciplina de Processamento Digital de Sinais.
+Algoritmos disponíveis em duas linguagens: Scilab (.sce) e Ocatve (.m)
 
 ### Experimento 01 - Implementação de algoritmos para efeito de eco e reverb em áudio.
 - Filtros Comb
