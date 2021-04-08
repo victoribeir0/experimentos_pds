@@ -21,7 +21,6 @@ Algoritmos disponíveis em duas linguagens: Scilab (.sce) e Octave (.m).
 - Convolução
 - Modulação AM
 
-### Experimento 05 - Filtragem e detecção de frequência fundamental em sinais de voz.
-- Filtros FIR
-- Convolução
+### Experimento 05 - Detecção de frequência fundamental em sinais de voz.
+- Frequência fundamental
 - Autocorrelação
